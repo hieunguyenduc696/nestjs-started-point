@@ -24,50 +24,29 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+<!-- [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. -->
+
+A starting point of Nest project, which will be used to develope during graduation project time.
+
+This project makes use of yarn instead of npm (as default), please make sure to install yarn first.
+
+Any questions, please contact me at [hieunguyen](https://www.facebook.com/profile.php?id=100012090786214).
 
 ## Installation
 
 ```bash
-$ npm install
+$ yarn (install)
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ yarn run start
 
 # watch mode
-$ npm run start:dev
+$ yarn run start:dev
 
 # production mode
-$ npm run start:prod
+$ yarn run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
